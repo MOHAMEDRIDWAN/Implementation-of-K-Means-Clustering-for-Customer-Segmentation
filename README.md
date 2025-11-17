@@ -1,3 +1,6 @@
+## NAME : MOHAMED RIDWAN A
+## REG ID: 212223110030
+## DEPARTMENT: CSE IOT
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
